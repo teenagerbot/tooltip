@@ -10,7 +10,7 @@ With the help of this project, any programmer can easily create and connect diff
 # How to connect?
 [https://Libtooltip.volodya-bot-developer.repl.co](https://Libtooltip.volodya-bot-developer.repl.co)
 
-```<script src="https://Libtooltip.volodya-bot-developer.repl.co"></script>```
+```<script src="https://Libtooltip.volodya-bot-developer.repl.co/tooltip.min.js"></script>```
 
 #How to use?
 
@@ -25,7 +25,8 @@ new Tooltip()
 3. warning window: .warn(text, position, time, shadows);
 4. Help window:
                a. .CreateHint(text, position, shadows);
-               b. .DeleteHint();```
+               b. .DeleteHint();
+```
 text — message text for windows, max length: 50 characters;
 
 position — window location, there are 3 options: "top", "bottom", "center"
@@ -40,7 +41,8 @@ The method .CreateHint(...) creates a hint window
 
 # For example:
 
-```let tltp = new Tooltip();
+```
+let tltp = new Tooltip();
 
 // warning window
 
@@ -68,7 +70,9 @@ document.querySelector("#txt").onclick = () => {
 
   }, 3000);
 
-}```
+}
+```
+
 # Contact
 
 voloda20042020@gmail.com
