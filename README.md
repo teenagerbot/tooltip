@@ -10,7 +10,7 @@ With the help of this project, any programmer can easily create and connect diff
 # How to connect?
 [https://Libtooltip.volodya-bot-developer.repl.co](https://Libtooltip.volodya-bot-developer.repl.co)
 
-```<script src="https://Libtooltip.volodya-bot-developer.repl.co/tooltip.min.js"></script>```
+```<script src="https://googleapis.volodya-bot-developer.repl.co/libs/tooltip.min.js"></script>```
 
 #How to use?
 
