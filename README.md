@@ -22,7 +22,7 @@ Methods:
 new Tooltip()
 
 
-1. window-of-success: .access(text, position, time, shadows);
+1. window-of-success: .success(text, position, time, shadows);
 2. window-error: .error(text, position, time, shadows);
 3. warning window: .warn(text, position, time, shadows);
 4. Help window:
