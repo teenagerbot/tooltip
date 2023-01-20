@@ -28,6 +28,7 @@ new Tooltip()
 4. Help window:
                a. .CreateHint(text, position, shadows);
                b. .DeleteHint();
+5. Android toast: .androidToast(text, position, time");
 ```
 text — message text for windows, max length: 50 characters;
 
@@ -57,6 +58,10 @@ tltp.error("Error", "bottom", 2, false);
 // window-of-success
 
 tltp.success("Success :)", "center", 1, true);
+
+// Android Toast:
+
+tltp.androidToast("Hi Android", "center", 4);
 
 // creating Help window
 
