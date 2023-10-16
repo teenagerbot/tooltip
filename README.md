@@ -9,11 +9,14 @@ With the help of this project, any programmer can easily create and connect diff
 
 # How to connect?
 [https://Libtooltip.volodya-bot-developer.repl.co](https://Libtooltip.volodya-bot-developer.repl.co)
-Does not work? Try other options:
-[https://jmp.sh/s/D59FZLNRmVwW49kJThm7](https://jmp.sh/s/D59FZLNRmVwW49kJThm7)
+
 
 ```html 
 <script src="https://googleapis.volodya-bot-developer.repl.co/libs/tooltip.min.js"></script>
+```
+Does not work? Try other options:
+```html 
+<script src="https://jmp.sh/s/D59FZLNRmVwW49kJThm7"></script>
 ```
 
 #How to use?
