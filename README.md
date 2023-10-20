@@ -16,7 +16,7 @@ With the help of this project, any programmer can easily create and connect diff
 ```
 Does not work? Try other options:
 ```html 
-<script src="https://raw.githubusercontent.com/teenagerbot/tooltip/main/tooltip.min.js"></script>
+<script src="https://unpkg.com/js_tooltip@1.0.0/index.js"></script>
 ```
 
 #How to use?
